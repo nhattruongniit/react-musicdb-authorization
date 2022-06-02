@@ -23,7 +23,6 @@ const useStyles = makeStyles((theme: Theme) =>
     heading: {
       textTransform: 'uppercase',
       fontSize: theme.typography.pxToRem(15),
-      fontWeight: theme.typography.fontWeightBold,
     },
   }),
 );
